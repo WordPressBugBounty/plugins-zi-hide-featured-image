@@ -1,0 +1,1 @@
+# plugins-zi-hide-featured-image
